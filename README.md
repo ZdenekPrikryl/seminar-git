@@ -12,6 +12,7 @@
 
 
 ## Co to je?
+Asi nic.
 
 * [Git][]
 * [GitHub][]
