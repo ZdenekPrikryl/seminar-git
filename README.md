@@ -1,5 +1,5 @@
 
-# Seminář Git a GitHub  CCCCCCC
+# Seminář Git a GitHub
 
 Zmenu udelal ZdenekPrikryl 11.22 250519
 
@@ -12,6 +12,7 @@ Zmenu udelal ZdenekPrikryl 11.22 250519
 
 
 ## Co to je?
+Asi nic.
 
 * [Git][]
 * [GitHub][]
@@ -27,7 +28,6 @@ Ke každému projektu patří v webové stránky. I ty můžete hostovat na GitH
 Více na <https://pages.github.com/.>
 
 
-Kráva Micro$oft!!! 
 
 ## Jak se to naučím?
 
@@ -62,7 +62,6 @@ Rozcestník kurzů najdete na <https://try.github.io/>.
 
 * [big-git-cs.pdf](big-git-cs.pdf)
 
-Od té toby co M$ koupil GitHub je to nejlepší služba!!!
 
 
 ## SSH klíče
