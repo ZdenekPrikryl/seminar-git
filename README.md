@@ -1,7 +1,7 @@
 
 # Seminář Git a GitHub  CCCCCCC
 
-
+Zmenu udelal ZdenekPrikryl 11.22 250519
 
 (SPŠE 25. 4. 2019) Aaajajajaj
 
