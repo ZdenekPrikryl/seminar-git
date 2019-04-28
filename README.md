@@ -1,9 +1,6 @@
-
 # Seminář Git a GitHub
 
-
-
-(SPŠE 25. 4. 2019) Aaajajajaj
+(VOŠ a SPŠE Olomouc, 25. 4. 2019)
 
 
 [Git]: https://cs.wikipedia.org/wiki/Git
@@ -12,7 +9,6 @@
 
 
 ## Co to je?
-Asi nic.
 
 * [Git][]
 * [GitHub][]
@@ -61,7 +57,6 @@ Rozcestník kurzů najdete na <https://try.github.io/>.
 ## Tahák
 
 * [big-git-cs.pdf](big-git-cs.pdf)
-
 
 
 ## SSH klíče
